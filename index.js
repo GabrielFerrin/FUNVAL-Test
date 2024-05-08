@@ -1,1 +1,1 @@
-// Pruebe de push a GitHub
+// Prueba de push a GitHub
